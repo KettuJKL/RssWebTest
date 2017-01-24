@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <h3>Read RSS Feed from the Times</h3>
+    <h3>Read RSS Feed from the Keskisuomalainen</h3>
 
     <div style="max-height:350px; overflow:auto">
         <asp:GridView ID="gvRss" runat="server" AutoGenerateColumns="false" ShowHeader="false" Width="90%">
